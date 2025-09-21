@@ -37,7 +37,7 @@
 <table>
   <tr>
     <td width="50%"><h3><a href="https://github.com/AlvaroHoux/estudante-sei-api">Estudante SEI API</a></h3></td>
-    <td width="50%"><h3>🦆 Bom de Bico</h3></td>
+    <td width="50%"><h3>🦆 Bom de Bico (<a href="https://github.com/RicardoByte/Projeto-Bom-de-Bico-Documentos">Documentação</a>)</h3></td>
   </tr>
   <tr>
     <td>API não oficial do site da faculdade, simula requisições, tem como objetivo centralizar todas as informações mais importantes para os alunos, além de ser 3x mais rápido que o próprio site</td>
